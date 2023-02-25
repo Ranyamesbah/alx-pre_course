@@ -1,1 +1,1 @@
-¨It’s time to code¨
+My first readme updated
